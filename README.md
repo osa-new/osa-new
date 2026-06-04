@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm Osagie</h1>
 
 <h3 align="center">
-### DevOps Engineer | Linux • Cloud Infrastructure • Docker • CI/CD • Automation
+DevOps Engineer | Linux • Cloud Infrastructure • Docker • CI/CD • Automation
 </h3>
 
 <p align="center">
