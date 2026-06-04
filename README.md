@@ -7,7 +7,7 @@ DevOps Engineer | Linux • Cloud Infrastructure • Docker • CI/CD • Automa
 </h3>
 
 <p align="center">
-<i>*Deploying, automating, and maintaining reliable infrastructure and web applications.*</i>
+<i>Deploying, automating, and maintaining reliable infrastructure and web applications.</i>
 </p>
 
 <p align="center">
